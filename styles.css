@@ -45,10 +45,6 @@
 }
 
 
-
-
-
-
 nav{
   max-width:1600px;
   height: 94px;
@@ -67,7 +63,7 @@ nav{
   font-size: 16px;
 }
 #section-header {
-  background-image: url(../assets/hero-bg.png);
+  background-image: url(assets/hero-bg.png);
   width: 1600px;
   height: 674px;
   padding:116px 120px 180px;
