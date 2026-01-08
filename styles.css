@@ -30,7 +30,9 @@
 .color-green{
   color: #469165;
 }
-
+#green{
+   color: #469165;
+}
 
 
 
@@ -144,6 +146,41 @@ nav{
   line-height: 20px;
   color:#627382;
 }
+#solution .solution-container{
+  display:flex;
+  justify-content:center;
+  /* align-items: center; */
+  width: 1360px;
+  height: 600px;
+  gap:60px;
+  margin-bottom: 120px;
+}
+.solution-container .solution-image{
+  width: 600px;
+  height: 600px;
+  border-radius: 12px;
+}
+.solution-container .solution-text {
+  margin: 102px 0px;
+}
+ .solution-text-1 h2{
+  font-size: 36px;
+  font-weight: bold;
+  margin: 16px 0px;
+  color:#001931;
+}
+.solution-text-1 p{
+  font-size: 16px;
+  line-height: 20px;
+  color:#627382;
+  margin-bottom: 40px;
+}
+.solution-text-2 p{
+  margin-bottom: 16px;
+  color:#001931;
+  font-size: 16px;
+  font-weight: 500;
 
+}
 
 
